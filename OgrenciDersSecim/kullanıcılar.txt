@@ -1,0 +1,77 @@
+Özet Kullanıcı Bilgileri
+
+
+
+Öğrenci İşleri Memuru:
+
+Kullanıcı Adı: memur1
+
+Şifre: sifre123
+
+
+
+Danışman Öğretmen:
+
+Kullanıcı Adı: danisman1
+
+Şifre: sifre123
+
+Ad: Mehmet
+
+Soyad: Kaya
+
+
+
+Öğrenciler:
+
+
+
+
+
+Ahmet Yilmaz
+
+Kullanıcı Adı: ogrenci1
+
+Şifre: sifre123
+
+GANO: 2.8
+
+Ayşe Demir
+
+
+
+Kullanıcı Adı: ogrenci2
+
+Şifre: sifre123
+
+GANO: 3.5
+
+Can Kaya
+
+
+
+Kullanıcı Adı: ogrenci3
+
+Şifre: sifre123
+
+GANO: 1.9
+
+Elif Turan
+
+
+
+Kullanıcı Adı: ogrenci4
+
+Şifre: sifre123
+
+GANO: 2.5
+
+Fatma Karakaya
+
+
+
+Kullanıcı Adı: ogrenci5
+
+Şifre: sifre123
+
+GANO: 3.1
